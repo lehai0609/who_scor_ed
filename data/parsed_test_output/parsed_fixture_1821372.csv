@@ -1,0 +1,2 @@
+id,competition_id,datetime_utc,status,round_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,referee_name,venue_name,scraped_at
+1821372,101,2025-05-01 00:00:00+00:00,,,174,Nottingham Forest,189,Brentford,,,Darren England,The City Ground,2025-05-12 09:45:47.235254+00:00
